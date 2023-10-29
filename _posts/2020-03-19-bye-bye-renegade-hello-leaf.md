@@ -24,13 +24,8 @@ author:
   last_name: DM
 permalink: "/2020/03/bye-bye-renegade-hello-leaf/"
 ---
-<div class="boldgrid-section">
-<div class="container">
-<div class="row">
-<div class="col-md-12 col-xs-12 col-sm-12">
-<p>After a false start on Tuesday where I was half-way to Wyong when I got a text from the dealer to say they hadn’t received the money from the bank yet, I &nbsp;finally got to pick up my new Leaf yesterday. Yay!</p>
-<p class=""><img class="alignnone size-large wp-image-773" src="{{ site.baseurl }}/assets/2020/03/C543E4A0-7EFC-4786-AF09-CBAAC1B0EFAC-1024x604.jpeg" alt="Bye bye Renegade, hello Leaf" width="1024" height="604" /></p>
-</div>
-</div>
-</div>
-</div>
+After a false start on Tuesday where I was half-way to Wyong when I got a text from the dealer to say they hadn’t received the money from the bank yet, I finally got to pick up my new Leaf yesterday. Yay!
+
+![Bye bye Renegade, hello Leaf]({{ site.baseurl }}/assets/2020/03/C543E4A0-7EFC-4786-AF09-CBAAC1B0EFAC-1024x604.jpeg)
+
+*Bye bye Renegade, hello Leaf*
