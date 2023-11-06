@@ -42,6 +42,16 @@ So I'm writing this bit the next day and I'm leaning towards the BMW. Partially 
 
 But now that I've worked through the options by writing them down, I think I prefer the Volvo. Time for a cost-benefit analysis.
 
+## Final thoughts
+
+Which car feels like I'm spending $90k on it. 
+
+The Volvo is a more powerful and slightly roomier Leaf. Although Lilly still needed to mind her head when getting into it.
+
+The BMW feels bigger and the Oyster interior makes it feel bright and airy. The XC40 Recharge Twin has more power and is quicker but the rest isn't much different from the RWD version. Which makes me lean towards the iX1.
+
+Of course finace is the final hurdle. Smartlease won't deal with me until my probation period at work is served. I thought that converting from contracting to permanent after 7 years would make things simpler and yet there are new hurdles. C'est la vie!
+
 
 [xc40]: https://www.volvocars.com/au/cars/xc40-electric/
 [ix1]: https://www.bmw.com/en-au/models/bmw-i/ix1/showroom/bmw-ix1.html
