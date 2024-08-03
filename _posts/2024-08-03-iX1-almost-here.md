@@ -33,7 +33,7 @@ It's already better travelled than me!
 
 ### Detailed specs
 
-You can find a surprising amount of info about the car just from entering the VIN in https://bimmer.work/ (Details here without all the ads. Although I don't know what else I've given away by entering my VIN into the site.)
+You can find a surprising amount of info about the car just from entering the VIN in <https://bimmer.work/> (Details here without all the ads. Although I don't know what else I've given away by entering my VIN into the site.)
 
 ### BMW iX1 xDrive30
 
